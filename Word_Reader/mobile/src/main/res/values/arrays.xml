@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Nyelvek_lista">
+        <item>Magyar</item>
+        <item>Angol</item>
+        <item>Szerb</item>
+        <item>Francia</item>
+        <item>Német</item>
+        <item>Olasz</item>
+        <item>Cseh</item>
+    </string-array>
+
+
+
+</resources>
